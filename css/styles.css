@@ -29,6 +29,7 @@ header::after{
 #left_panel{
     width: 25%;
     background-color: #d7eaf2;
+    padding: 4px;
 }
 
 #midle_panel{
